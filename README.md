@@ -1,4 +1,4 @@
-# hotel
+# HOTEL
 
 A simple flutter project with a hotel booking layout.
 
